@@ -1,0 +1,7 @@
+<html>                          -->  tag represents the root of an HTML document
+<body>                          --> tag defines the document's body and it start design from body tags
+
+<p>This is a paragraph.</p>           --> Display a message on screen with paragraph.
+<p>This is another paragraph.</p>                    
+</body>                          --> it close a body 
+</html>                          --> it close tag represents the root of an HTML document
