@@ -1,0 +1,12 @@
+<html>                          -->  tag represents the root of an HTML document
+<body>                          --> tag defines the document's body and it start design from body tags
+
+<h1> hello </h1>                --> h1 h2 h3 h4 h5 h6 are the head of font that statifi a size of font with default style and default text scale
+<h2> hello </h2>
+<h3> hello </h3>
+<h4> hello </h4>
+<h5> hello </h5>
+<h6> hello </h6>
+
+</body>                          --> it close a body 
+</html>                          --> it close tag represents the root of an HTML document
