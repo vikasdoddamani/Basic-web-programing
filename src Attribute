@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>The src Attribute</h2>
+
+<img src="image.jpg" width="500" height="600">
+
+</body>
+</html>
